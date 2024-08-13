@@ -2,7 +2,7 @@
 
 Sou um apaixonado por tecnologia que começou a trilhar o caminho da programação em 2023. Tenho 20 anos, nascido em São Paulo e atualmente vivendo em Salvador. Além de desenvolver código, adoro ouvir música, o que me ajuda a manter a criatividade e a concentração em alta. Minha verdadeira paixão está no desenvolvimento back-end, onde posso resolver problemas complexos e construir a estrutura que dá vida aos aplicativos.
 
-Estou cursando Análise de Sistemas na Universidade Católica, onde estou adquirindo uma base sólida em diversos aspectos da tecnologia da informação. Até agora, meu foco tem sido nas linguagens TypeScript, Node.js e JavaScript, que uso para criar soluções eficientes e escaláveis. A universidade tem sido um terreno fértil para desenvolver minhas habilidades técnicas e meu pensamento crítico.
+Estou cursando Engenharia de Software na Universidade Católica, onde estou construindo uma base sólida em diversos aspectos da tecnologia da informação. Meu foco até agora tem sido em linguagens como TypeScript, Node.js e JavaScript, que utilizo para transformar meu conhecimento em projetos e aplicações reais.
 
 Atualmente, estou em busca da minha primeira vaga como desenvolvedor. Acredito que posso trazer um olhar fresco e uma grande motivação para aprender e contribuir. Com minha paixão por back-end e habilidades nas linguagens que domino, estou pronto para ajudar a sua empresa a enfrentar desafios tecnológicos e criar soluções inovadoras. Estou animado para colaborar com uma equipe dinâmica e contribuir para o sucesso de projetos importantes. Vamos construir o futuro juntos!
 
