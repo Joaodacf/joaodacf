@@ -1,26 +1,54 @@
-## Olá! Sou o João Freitas
+<h1 align="left">Olá! Me chamo João Freitas 😊</h1>
 
-Sou um apaixonado por tecnologia que começou a trilhar o caminho da programação em 2023. Tenho 20 anos, nascido em São Paulo e atualmente vivendo em Salvador. Além de desenvolver código, adoro ouvir música, o que me ajuda a manter a criatividade e a concentração em alta. Minha verdadeira paixão está no desenvolvimento back-end, onde posso resolver problemas complexos e construir a estrutura que dá vida aos aplicativos.
+###
 
-Estou cursando Engenharia de Software na Universidade Católica, onde estou construindo uma base sólida em diversos aspectos da tecnologia da informação. Meu foco até agora tem sido em linguagens como TypeScript, Node.js e JavaScript, que utilizo para transformar meu conhecimento em projetos e aplicações reais.
+<h3 align="left">Tenho 21 anos, nascido em São Paulo e atualmente residindo em Salvador. Iniciei meus estudos em programação em 2023 e estou cursando Engenharia de Software pela Universidade Católica de Salvador.</h3>
 
-Atualmente, estou em busca da minha primeira vaga como desenvolvedor. Acredito que posso trazer um olhar fresco e uma grande motivação para aprender e contribuir. Com minha paixão por back-end e habilidades nas linguagens que domino, estou pronto para ajudar a sua empresa a enfrentar desafios tecnológicos e criar soluções inovadoras. Estou animado para colaborar com uma equipe dinâmica e contribuir para o sucesso de projetos importantes. Vamos construir o futuro juntos!
+###
 
-## tecnologias que uso no meu dia a dia : 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<h3 align="left">Comecei a estudar desenvolvimento back-end na Cubos Academy, onde aprendi profundamente sobre tecnologias como TypeScript, JavaScript e Node.js. Durante o curso, me apaixonei por essas ferramentas e desenvolvi um conhecimento sólido e prático. Meu objetivo é criar projetos que não apenas funcionem de forma eficiente, mas que também ofereçam uma experiência excepcional para o usuário. Estou constantemente em busca de aprimorar minhas habilidades e conhecimentos, comprometido em aplicar o que aprendi para desenvolver soluções inovadoras e de alta qualidade.</h3>
 
-## Você me encontra aqui : 
-<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-freitas-597216286/"> 
-<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/link-1.png" style="width:70px"/> 
-</a>
-<a target="_blank" href="mailto:joaodacf@gmail.com"> 
-<img src ="https://images-profiles.s3.us-west-004.backblazeb2.com/mail-1.png" style="width:70px"/> 
-</a>
+###
+
+<img align="right" height="197" src="https://i.pinimg.com/564x/5b/37/41/5b3741dd6533189b0063367ddd6c1bd0.jpg"  />
+
+###
+
+<h2 align="left">Atualmente, estou em busca da minha primeira vaga como desenvolvedor e estou totalmente disposto a me aprofundar continuamente em novas linguagens e tecnologias. Tenho um forte desejo de expandir meu conhecimento e habilidades, contribuindo de forma significativa para a equipe. Estou ansioso para aplicar minha paixão pelo desenvolvimento back-end e minha dedicação ao aprendizado constante para enfrentar novos desafios e crescer profissionalmente.</h2>
+
+###
+
+<h2 align="left">Eu programo com :</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h2 align="left">Formas de contato:</h2>
+
+###
+
+<div align="left">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-freitas-597216286/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
